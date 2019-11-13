@@ -21,6 +21,7 @@ Please fork this repository and then issue pull request fo review.
 
 Changes made after staged
 
+Adding a line
 
 Adding a new line to stage the file.
 
