@@ -6,11 +6,17 @@
     Bhuppal Kumar - bhuppal@hotmail.com
 
 # THANKS
+<<<<<<< HEAD
    
     Adding some content.
     Adding extra line #1.
     Adding a ling before rebase.    
 
+=======
+
+    Thanks to all my students.
+    
+>>>>>>> f7381cafb4eeea983805b9ee7ee46f0175126cef
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
