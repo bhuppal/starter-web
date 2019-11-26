@@ -8,9 +8,14 @@
 # THANKS
    test
     Thanks to all my students.
+<<<<<<< HEAD
     
 >>>>>>> f7381cafb4eeea983805b9ee7ee46f0175126cef
+=======
+    Please review the changes.
+>>>>>>> e5043dcbdb29d43e72b06fb9a23db4449ef8d744
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    REACT
