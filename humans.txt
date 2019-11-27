@@ -2,21 +2,16 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
     Bhuppal Kumar - bhuppal@hotmail.com
     Created a new branch - TestBranch
-# THANKS
 
-    Thanks to all my students.
-    Please review the changes.
+# THANKS
+    Thanks to all my students
+    Please review the changes
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
-<<<<<<< HEAD
     REACT, Angular
     TypeScript
-=======
-    REACT
-    TypeScript JS
->>>>>>> TestBranch
