@@ -13,7 +13,8 @@ This is an example to show the difftool. Adding rebase rule.
 Adding more content for Stash example 
 Trying to add some content to readme file.
 Adding some content for Stash
-Adding some extra lines for TB 
+Adding some extra lines for TB
+Adding some value from Master 
 ## Purpose
 
 Adding some content to domo
