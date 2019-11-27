@@ -4,7 +4,7 @@
 # TEAM
 
     Bhuppal Kumar - bhuppal@hotmail.com
-
+    Created a new branch - TestBranch
 # THANKS
 
     Thanks to all my students.
@@ -13,5 +13,10 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
     REACT, Angular
     TypeScript
+=======
+    REACT
+    TypeScript JS
+>>>>>>> TestBranch
