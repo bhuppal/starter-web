@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bhuppal Kumar - bhuppal@hotmail.com
+
+# THANKS
+
+<<<<<<< HEAD
+    Thanks for all the students
+
+=======
+    Thanks to all my students.
+    Adding some content.
+    Adding extra line #1.
+    Adding a ling before rebase.
+    
+>>>>>>> 64e6bbe39ac1aae5259f95f9230fb7a715885408
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
